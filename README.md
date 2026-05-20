@@ -62,7 +62,3 @@ I'm always open to connecting with other developers, potential clients, or anyon
 > *"A year from now you'll wish you started today."*  
 > — I did start. Watch what happens next.
 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
