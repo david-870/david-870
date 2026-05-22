@@ -2,7 +2,7 @@
 
 I'm a self-taught frontend developer based in **Ibadan, Nigeria**, on a mission to turn curiosity into code — and code into products people actually use.
 
-I've been building for a little over a year, and in that time I've gone from writing my first HTML tag to shipping real websites for real clients. I'm not just learning to code — I'm learning to build.
+I've been building for almost three years now, and in that time I've gone from writing my first HTML tag to shipping real websites for real clients. I don't just code — I build systems.
 
 ---
 
