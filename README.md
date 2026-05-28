@@ -9,7 +9,7 @@ I've been building for almost three years now, and in that time I've gone from w
 ## 🚀 What I'm Working On
 
 - 🛍️ **BaloTech Gadget Hub** — A full e-commerce storefront for a physical gadget store in Nigeria. Multi-page product catalog, cart system, admin stock management, and WhatsApp checkout. Built with pure HTML, CSS and JavaScript.
-- ☀️ **Solar Client Website** — Currently building a professional website for a solar energy business client. My first paid real-world project.
+- ☀️ **Solar Client Website** — Currently building a professional website for a solar energy business client. A real-world project geared towards bringing solar energy to everyone.
 - 💪 **Mastering JavaScript & React** — Going deep on JS fundamentals before fully diving into React.
 
 ---
