@@ -17,7 +17,7 @@ I've been building for almost three years now, and in that time I've gone from w
 
 ## 💼 Featured Project — Adodo Frozen Food
 
-<a href="https://github.com/david-870/adodo-frozen-food">
+<a href="https://www.adodofrozenfood.com>
   <img align="right" alt="Adodo Frozen Food" width="420" src="https://capsule-render.vercel.app/api?type=waving&color=0a2342&height=120&section=header&text=Adodo%20Frozen%20Food&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </a>
 
